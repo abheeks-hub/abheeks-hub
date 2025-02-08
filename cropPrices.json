@@ -1,0 +1,7 @@
+[
+    { "name": "Wheat", "price": 25 },
+    { "name": "Rice", "price": 40 },
+    { "name": "Corn", "price": 30 },
+    { "name": "Sugarcane", "price": 35 },
+    { "name": "Potato", "price": 20 }
+]
